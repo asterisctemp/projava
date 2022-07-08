@@ -1,8 +1,10 @@
 class Test {
 
-    public static void main(String a[]) {
+    public static void main(String ar[]) {
 
-        System.out.println("hello world");
+        int a = 10, b = 20;
+        int c = a + b;
+        System.out.println("Result " + c);
 
     }
 
